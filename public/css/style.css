@@ -1,0 +1,21 @@
+body{
+	background: darkgray;
+}
+.con{
+	
+
+}
+.se{
+	margin-top: 80px;
+	padding: 30px;
+	background: mintcream;
+	border-radius: 5px;
+}
+.se input{
+	width: 400px;
+}
+.user{
+	padding: 10px;
+	margin-top: 20px;
+	list-style: none;
+}
